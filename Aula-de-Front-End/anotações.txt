@@ -1,0 +1,68 @@
+Organização de página:
+
+Header - Topo com título e navegação <header>
+Main - Conteúdo principal com a informação central <main>
+Sections - Blocos de conteúdo para separar assuntos <section>
+Footer - Rodapé com informações finais <footer>
+Nav - Define uma área de navegação com links, essencial para a usabilidade e para guiar o usuário pela página <nav>
+Aside - Contém conteúdo complementar ou secundário, como barras laterais, anúncios ou informações relacionadas ao conteúdo principal <aside>
+
+Exemplo:
+
+<header>
+    <h1>Meu site</h1>
+    <nav>
+    <a href="#">Início</a>
+    <a href="#">Sobre</a>
+    <a href="#">Contato</a>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h2>Conteúdo principal</h2>
+        <p>Este é o texto central da minha página.</p>
+    </section>
+
+    <aside>
+        <p>Esta é uma informação complementar.</p>
+    </aside>
+</main>
+
+<footer>
+    <p>Rodapé do site - Direitos reservados.</p>
+</footer>
+
+Tags de listas
+
+<ul> e <li>: lista não ordenada com marcadores (unordered list e list item)
+
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ul>
+
+<ol> e <li>: Lista ordenada com números (ordered list e list item)
+
+<ol>
+    <li>Primeiro</li>
+    <li>Segundo</li>
+    <li>Terceiro</li>
+</ol>
+
+Usar ul quando a ordem não importa (hobbies, características). Usar ol quando há sequência (passos de receita, instruções).
+
+Tags gerais:
+
+<h1>: Título principal da página. Use apenas um por página para SEO.
+<p>: Parágrafo de texto. Bloco de conteúdo textual.
+<img>: Insere imagem. Atributos scr (origem) e alt (descrição).
+<a>: Link clicável. Atributo href com destino.
+
+Exemplos:
+
+<h1>Título principal</h1>
+<p>Texto do parágrafo</p>
+<img src="foto.png" alt="Descrição">
+<a href="#">Texto do link</a>
