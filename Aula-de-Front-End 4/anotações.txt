@@ -1,0 +1,18 @@
+08/04/2026
+
+tabelas: essencialmente, apenas para informação, seja uma comparavel ou de categorias especificas
+
+<table>
+ <tr>
+   <th> nome </th>
+   <th> idade </th>
+  </tr> 
+  <tr>
+   <td> ana </td>
+   <td> 22 </td>
+ </tr>
+ <tr>
+   <td> ana </td>
+   <td> 22 </td>
+    </tr>
+</table>
