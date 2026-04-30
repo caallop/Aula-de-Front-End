@@ -1,0 +1,48 @@
+/* p{
+   color: gray ;
+   background-color:bisque ;
+   font-family:'Courier New', Courier, monospace;
+    font-size: 12px;
+    text-align: center;
+} */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(99, 100, 151);
+    color: #333333;
+    font-family: Arial, sans-serif;
+}
+
+header{
+    background-color: #844e8f;
+    color: black;
+    text-align: center;
+    padding: 10 37px;   
+}
+
+h1{
+    font-size: 36px;
+}
+
+main, footer{
+    margin: 30px auto;
+    width: 80%;
+}
+
+.card{
+    background-color: #878787;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid#0000;
+    border-radius: 10px;
+}
+
+.card h2{
+    color: greenyellow;
+}
+

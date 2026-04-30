@@ -1,0 +1,13 @@
+hoje (29/04) aprenderemos sobre css e suas funções
+
+as principas e melhores sao: 
+color
+background-color
+font=family
+font-size
+text-align
+
+margin: espaçamento entre s elementos
+padding: espaçamentodo propro elemento
+border: espessura, estilo e cor da bordas de um elemento
+border-radius: arredonda  canto do elemento
