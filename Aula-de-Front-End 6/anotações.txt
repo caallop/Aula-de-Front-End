@@ -1,0 +1,18 @@
+hoje (06/05) aprenderemos sobre containers e box model
+
+fazendo uma pagina para estudos de caixas e modelos
+
+https://developer.mozilla.org/en-US/
+este site serve para ver as prorpiedades (tantos de css e html, quando js)
+
+lembra desse site!!! vagabundo!!!!
+
+SEMPRE COMEÇAR UM DOCUMENTO CSS COM 
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: 0px;
+}
+SEMPRE
+SEMPRE
+SEMPRE  

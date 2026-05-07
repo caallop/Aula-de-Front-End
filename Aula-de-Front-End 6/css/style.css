@@ -1,0 +1,71 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box; /* serve para, dizer para o html que, é para usar oq o programador falou no css*/
+}
+
+body{
+    background-color: #c1c1c1;
+    color: #333333;
+    font-family: Arial, sans-serif;
+}
+
+
+.cabecalho {
+    background-color: #ed145b;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+.cabecalho h1{
+    margin-bottom: 10px;
+}
+
+.container {
+    width: 80%;
+    max-width: 900px;
+    margin: 40px auto;
+    background-color: #fbbc69;
+}
+
+.bloco{
+    background-color: white;
+    padding: 24px;
+    margin-bottom: 24px;
+    border: 1px solid #6f6f6f;
+    border-radius: 15px;
+}
+
+.bloco h2{
+    color: #ed145b;
+    margin-bottom: 12px;
+}
+
+.bloco p{
+    line-height: 1.3;
+}
+
+.card{
+    padding: 16px;
+    background-color: aliceblue;
+    margin-top: 16px;
+    border-left: 4px #ed145b solid;
+    border-radius: 14px;
+}
+
+.card h3{
+  margin-bottom: 8px;
+}
+
+.destaque{
+    background-color: #fff0f5;
+    border: 1px solid #ed145b;
+}
+
+.footer{
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
